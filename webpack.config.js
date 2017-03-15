@@ -3,7 +3,8 @@ var webpack = require('webpack');
 
 module.exports = {
     entry: {
-        one: './one-lodash.js', 
+        destructionImport: './destruction-import.js', 
+        cherryPick: './cherry-pick.js', 
         separated: './separated-lodash.js'
     },
     output: {
