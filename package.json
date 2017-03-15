@@ -1,0 +1,46 @@
+{
+  "name": "lodash-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"    
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "lodash.clonedeep": "^4.5.0",
+    "lodash.debounce": "^4.0.8",
+    "lodash.differenceby": "^4.8.0",
+    "lodash.escape": "^4.0.1",
+    "lodash.escaperegexp": "^4.1.2",
+    "lodash.filter": "^4.6.0",
+    "lodash.find": "^4.6.0",
+    "lodash.findkey": "^4.6.0",
+    "lodash.flatmap": "^4.5.0",
+    "lodash.get": "^4.4.2",
+    "lodash.identity": "^3.0.0",
+    "lodash.indexby": "^3.1.1",
+    "lodash.intersectionby": "^4.7.0",
+    "lodash.isarray": "^3.0.4",
+    "lodash.isboolean": "^3.0.3",
+    "lodash.isfunction": "^3.0.8",
+    "lodash.isnil": "^4.0.0",
+    "lodash.isnull": "^3.0.0",
+    "lodash.isobject": "^3.0.2",
+    "lodash.isstring": "^4.0.1",
+    "lodash.minby": "^4.6.0",
+    "lodash.noop": "^3.0.1",
+    "lodash.omit": "^4.5.0",
+    "lodash.pickby": "^4.6.0",
+    "lodash.range": "^3.2.0",
+    "lodash.uniq": "^4.5.0",
+    "lodash.uniqby": "^4.7.0",
+    "lodash.uniqueid": "^4.0.1",
+    "lodash.values": "^4.3.0"
+  }
+}
