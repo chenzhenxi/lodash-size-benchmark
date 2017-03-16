@@ -3,9 +3,10 @@ var webpack = require('webpack');
 
 module.exports = {
     entry: {
-        destructionImport: './destruction-import.js', 
+        importSingleMember: './import-single-member.js', 
         cherryPick: './cherry-pick.js', 
-        separated: './separated-lodash.js'
+        separated: './separated-lodash.js',
+        oldSchool: './old-school.js',
     },
     output: {
         filename: '[name].bundle.js',
